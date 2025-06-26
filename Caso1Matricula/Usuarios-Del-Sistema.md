@@ -6,9 +6,10 @@
 
 |Actor| Tipo|Rol
 |-------|------|------|
-|Secretario|Primario|Administrador|
+|Secretario|Primario| Ingresar/Modificar Datos del Sistema|
 |Secretario General| Primario | Administrador|
-||
-|Tutor|Secundario|Proveedor de datos del alumno.Externos al negoco|
+|Contador| Primario| Acreditar en partidas los pagos del Matricula| 
+|Tutor|Secundario|Proveedor de datos del alumno. Externos al negocio|
+
 
   
